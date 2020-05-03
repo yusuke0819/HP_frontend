@@ -1,13 +1,14 @@
 # HP_frontend
-\---app
-    +---assets
-    |   +---images
-    |   +---javascripts
-    |   \---stylesheets
-    \---views
-        +---admins
-        +---contacts
-        +---layouts
-        +---plans
-        +---reforms
-        \---tops
+
+\---app<br>
+##+---assets<br>
+##|   +---images <br>
+##|   +---javascripts <br>
+##|   +---stylesheets <br>
+##+---views <br>
+####+---admins <br>
+####+---contacts <br>
+####+---layouts <br>
+####+---plans <br>
+####+---reforms <br>
+####+---tops 
